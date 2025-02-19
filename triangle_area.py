@@ -13,7 +13,7 @@ def findArea():
 
     print()
     
-    area = height * base / 2
+    area = height * basde / 2
 
     print('The area of the triangle is', area)
 
